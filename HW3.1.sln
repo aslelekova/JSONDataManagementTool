@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3.1", "HW3.1\HW3.1.csproj", "{C579F894-1F66-4E91-AAF4-59B6D9F3BD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPlayerDataProcessor", "JsonPlayerDataProcessor\JsonPlayerDataProcessor.csproj", "{C83906A6-76E6-4C3C-A490-79A1C32DDD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C579F894-1F66-4E91-AAF4-59B6D9F3BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C579F894-1F66-4E91-AAF4-59B6D9F3BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C579F894-1F66-4E91-AAF4-59B6D9F3BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C579F894-1F66-4E91-AAF4-59B6D9F3BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83906A6-76E6-4C3C-A490-79A1C32DDD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83906A6-76E6-4C3C-A490-79A1C32DDD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83906A6-76E6-4C3C-A490-79A1C32DDD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83906A6-76E6-4C3C-A490-79A1C32DDD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

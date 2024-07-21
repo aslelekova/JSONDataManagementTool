@@ -1,0 +1,12 @@
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/bin/Debug/net6.0/JsonPlayerDataProcessor.deps.json
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/bin/Debug/net6.0/JsonPlayerDataProcessor.dll
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/bin/Debug/net6.0/JsonPlayerDataProcessor.pdb
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.csproj.AssemblyReference.cache
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.AssemblyInfoInputs.cache
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.AssemblyInfo.cs
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.csproj.CoreCompileInputs.cache
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.dll
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/refint/JsonPlayerDataProcessor.dll
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/JsonPlayerDataProcessor.pdb
+/Users/anastasialelekova/RiderProjects/HW3.1/JsonPlayerDataProcessor/obj/Debug/net6.0/ref/JsonPlayerDataProcessor.dll
